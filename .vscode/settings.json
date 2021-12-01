@@ -1,0 +1,16 @@
+{
+  "editor.formatOnSave": true,
+  "search.exclude": {
+    ".yarn": true,
+    "yarn.lock": true
+  },
+  "eslint.packageManager": "yarn",
+  "eslint.alwaysShowStatus": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[markdown]": {
+    "editor.formatOnSave": true
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  }
+}
